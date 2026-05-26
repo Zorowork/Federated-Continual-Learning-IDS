@@ -1,0 +1,5 @@
+Strategy,Task 1 Accuracy (%),Task 2 Accuracy (%),Full Test Accuracy (%),Task 1 Retention (%),Forgetting (%)
+Naive Fine-tuning,86.65,0.00,67.04,56.62,30.02
+EWC,77.18,0.00,72.55,69.45,7.74
+Experience Replay,85.52,0.00,53.60,64.80,20.72
+EWC + Replay,85.47,0.00,65.94,73.52,11.95

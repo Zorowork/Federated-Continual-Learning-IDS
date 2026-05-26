@@ -1,0 +1,34 @@
+{
+  "naive": {
+    "strategy": "naive",
+    "task1_accuracy": 86.64732448034029,
+    "task2_accuracy": 0.0,
+    "full_accuracy": 67.0353960295667,
+    "task1_retention": 56.62258663891894,
+    "forgetting": 30.02473784142135
+  },
+  "ewc": {
+    "strategy": "ewc",
+    "task1_accuracy": 77.18141567714002,
+    "task2_accuracy": 0.0,
+    "full_accuracy": 72.55287063383552,
+    "task1_retention": 69.44614683017667,
+    "forgetting": 7.735268846963351
+  },
+  "replay": {
+    "strategy": "replay",
+    "task1_accuracy": 85.5184412740208,
+    "task2_accuracy": 0.0,
+    "full_accuracy": 53.59771264358142,
+    "task1_retention": 64.79911716725283,
+    "forgetting": 20.71932410676797
+  },
+  "ewc_replay": {
+    "strategy": "ewc_replay",
+    "task1_accuracy": 85.4682792363977,
+    "task2_accuracy": 0.0,
+    "full_accuracy": 65.94443352045239,
+    "task1_retention": 73.51681759082591,
+    "forgetting": 11.951461645571797
+  }
+}
